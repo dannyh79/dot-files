@@ -105,11 +105,13 @@ vscode "nwolverson.language-purescript"
 vscode "phoenixframework.phoenix"
 
 
-# [Apple]
+# [Mobile Dev]
 # Apple Simulators: https://github.com/wix/AppleSimulatorUtils
 # tap "apple/apple"
 # tap "wix/brew"
 # brew "wix/brew/applesimutils"
+# cask "zulu@17" # OpenJDK distro
+# cask "android-studio"
 
 
 # [OS image flasher]
